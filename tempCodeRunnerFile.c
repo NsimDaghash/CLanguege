@@ -1,0 +1,1 @@
+ find the sum from 1 to a given number */
